@@ -61,7 +61,7 @@ Based on the analysis, the following cities are recommended for new store openin
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/coffee-market-analysis.git](https://github.com/musfiqurrabeg/Monday-Coffee-Data-Analysis.git)
+   git clone https://github.com/musfiqurrabeg/Monday-Coffee-Data-Analysis.git
    ```
 
 2. Set up the database:
